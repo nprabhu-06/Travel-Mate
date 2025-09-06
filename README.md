@@ -9,7 +9,7 @@ The project demonstrates the use of *data structures* in real-world applications
 
 ---
 
-##  Features
+## ✨ Features
 - 🔑 *User Authentication* (Register/Login) using hash tables  
 - 🏨 *Hotel Booking Management* using queues  
 - 📅 *Daily Activity Planning* with BSTs (sorted by date & time)  
@@ -20,34 +20,27 @@ The project demonstrates the use of *data structures* in real-world applications
   - Show routes between cities on *Google Maps*  
 - 👤 *User session management* (login/logout, change city, view bookings, etc.)
 
-## Technologies Used
+---
+
+## 🛠️ Technologies Used
 - *C Programming*
 - *Data Structures*: Hash Tables, Queues, Binary Search Trees (BST)
 - *System Calls* for URL redirection (Windows/Linux/macOS)
 
-  ## ⚡ How to Execute Travel Mate
+---
+
+## ⚡ How to Clone & Execute
 
 ### 1. Clone the Repository
-Clone the project to your local system:
+Open a terminal/command prompt and run:
 ```bash
 git clone https://github.com/your-username/travel-mate.git
 cd travel-mate
 
-(Replace your-username with your actual GitHub username.)
 
 
----
-
-2. Compile the Program
-
-- Use GCC to compile the source code:
-
-gcc main.c -o travel_mate
-
-This will create an executable named travel_mate.
 
 
----
 
 
 
