@@ -46,12 +46,3 @@ The project demonstrates the use of *data structures* in real-world applications
 ### 4. Run the Executable Directly (Optional)
 ```bash
 travel_mate.exe
-
-
-
-
-
-
-
-
-
