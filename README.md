@@ -1,6 +1,6 @@
 # Travel-Mate
 This is a *console-based travel booking and itinerary management application* built in *C*.  
-It provides features like user registration/login, activity scheduling, hotel booking, and integration with external platforms such as **MakemyTrip, **Google Maps, and **Swiggy/Zomato* via URL redirection.
+It provides features like user registration/login, activity scheduling, hotel booking, and integration with external platforms such as MakemyTrip, Google Maps, and Swiggy/Zomato via URL redirection.
 
 The project demonstrates the use of *data structures* in real-world applications:
 - *Hash Table* → User authentication (Register/Login)
