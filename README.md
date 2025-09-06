@@ -36,13 +36,13 @@ The project demonstrates the use of *data structures* in real-world applications
    git clone https://github.com/your-username/travel-mate.git
    cd travel-mate
 2.**Open in Dev-C++ IDE**
-- Go to File → Open and select main.c
+- Go to File → Open and select travel.c
 - Or double-click main.c to open directly
 
 3.**Compile & Run**
 - Press F11 or click Execute → Compile & Run
-- This will generate travel_mate.exe and run it.
+- This will generate travel.exe and run it.
 
 ### 4. Run the Executable Directly (Optional)
 ```bash
-travel_mate.exe
+travel.exe
