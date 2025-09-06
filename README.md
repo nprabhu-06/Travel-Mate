@@ -25,4 +25,29 @@ The project demonstrates the use of *data structures* in real-world applications
 - *Data Structures*: Hash Tables, Queues, Binary Search Trees (BST)
 - *System Calls* for URL redirection (Windows/Linux/macOS)
 
+  ## ⚡ How to Execute Travel Mate
+
+### 1. Clone the Repository
+Clone the project to your local system:
+```bash
+git clone https://github.com/your-username/travel-mate.git
+cd travel-mate
+
+(Replace your-username with your actual GitHub username.)
+
+
+---
+
+2. Compile the Program
+
+- Use GCC to compile the source code:
+
+gcc main.c -o travel_mate
+
+This will create an executable named travel_mate.
+
+
+---
+
+
 
