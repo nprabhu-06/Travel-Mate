@@ -29,14 +29,23 @@ The project demonstrates the use of *data structures* in real-world applications
 
 ---
 
-## ⚡ How to Clone & Execute
+## How to Clone & Execute
 
-### 1. Clone the Repository
-Open a terminal/command prompt and run:
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/travel-mate.git
 cd travel-mate
 
+# 2. Open the project in Dev-C++ IDE
+#    - File → Open → select main.c
+#    - Or double-click main.c
+
+# 3. Compile & Run
+#    - Press F11 or click "Execute → Compile & Run"
+#    - This will generate travel_mate.exe and run it
+
+# 4. If .exe is created, you can also run it directly:
+travel_mate.exe
 
 
 
