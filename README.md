@@ -43,9 +43,10 @@ The project demonstrates the use of *data structures* in real-world applications
 - Press F11 or click Execute → Compile & Run
 - This will generate travel_mate.exe and run it.
 
-4.**Run the Executable Directly (Optional)**
+### 4. Run the Executable Directly (Optional)
 ```bash
 travel_mate.exe
+
 
 
 
